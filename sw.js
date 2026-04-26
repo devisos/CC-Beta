@@ -1,10 +1,10 @@
 const CACHE_NAME = 'core-compose-v1';
 const ASSETS_TO_CACHE = [
-  '/core-compose-app.html',
-  '/manifest.json',
-  '/icons/icon-192x192.png',
-  '/icons/icon-512x512.png',
-  '/icons/apple-touch-icon.png'
+  '/CC-Beta/core-compose-app.html',
+  '/CC-Beta/manifest.json',
+  '/CC-Beta/icons/icon-192x192.png',
+  '/CC-Beta/icons/icon-512x512.png',
+  '/CC-Beta/icons/apple-touch-icon.png'
 ];
 
 // Install: cache core assets
